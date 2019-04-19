@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+<meta name="viewport" content="widht=device-widht", initial-scale="1">
+<link rel="stylesheet" type="text/css" href="resume.css">
+</head>
+<body>
+ <header>
+  <div id="header-image">
+   <img src="https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/50321286_10158438892360620_2681904208143187968_o.jpg?_nc_cat=109&_nc_ht=scontent.fgdl3-1.fna&oh=edadea018233bf27b1c73cc98a256ced&oe=5D3C643A" alt="persona hablando" style="width:100%">
+  </div>
+  <h1>Viridiana Hernández</h1>
+  <p id="main-text">Comunicóloga con experiencia multidisciplinaria, especializada en comunicación política, tecnología cívica e innovación social.<br/>
+  Habilidades y experiencia en gestión de proyectos,  equipos y comunidades de tecnología con fines sociales.<br/>
+Incidencia, estrategia de comunicación y community management.
+  </p>
+  <nav class="topnav">
+   <a class="active" href="#educacion">Experiencia profesional</a>
+   <a href="#skills">Skills</a>
+   <a href="#formacion">Formación</a>
+   <a href="#premios-community">Premios/Community</a>
+   <a href= "#idiomas">Idiomas</a> 
+  </nav>
+ </header>
+ <section>
+  <article id="experiencia">
+  <table class="table">
+   <tr class="main-table">
+    <td class="row"><strong>Experiencia profesional</strong></td>
+    <td class="row">Periodo</td>
+   </tr>
+   <tr>
+    <td class="row"><strong>Coordinación SarapeLab</strong></td>
+    <td class="row">Septiembre 2018- Enero 2019</td>
+   </tr>
+   <tr>
+   <td class="row"> Sarape Social- Guadalajara<br/>
+-Definición de área. Procesos de ideación de proyectos sociales sobre metodologías de innovación  y diseño de futuros en consultoría con Ars Electrónica en Austria.
+</td>
+ </tr>
+ <tr>
+  <td class="row"><strong>Lider de Proyecto:  Mi Zapopan</strong></td>
+  <td class="row">  Marzo - Agosto 2018</td>
+ </tr>
+ <tr>
+  <td class="row">Sarape Social-Guadalajara.<br/>
+  -Gestión de la plataforma digital  Mi Zapopan, con cliente en el Gobierno de Zapopan. Vinculación con actores estratégicos para el proyecto.<br/>
+-Coordinación de Estrategia  y Equipo de Comunicación, Ejecución en campo (Talleres y activaciones) e Implementación de ideas.
+</td>
+ </tr>
+</table>
+</article>
+<article id= "skills">
+<table class="table">
+ <tr class="main-table">
+  <td class="row"><strong>Skills</strong></td>
+  <td class="row">Nivel</td>
+ </tr>
+ <tr>
+  <td class="row">Estrategia de Comunicación</td>
+  <td class="row">Avanzado</td>
+ </tr>
+ <tr>
+  <td class="row">Gestión de proyectos</td>
+  <td class="row">Avanzado</td>
+ </tr>
+ <tr>
+  <td class="row">Agile</td>
+  <td class="row">Intermedio</td>
+ </tr>
+ <tr>
+  <td class="row">Community Management</td>
+  <td class="row">Intermedio</td>
+ </tr>
+ <tr>
+  <td class="row">Frontend Development</td>
+  <td class="row">Básico</td>
+ </tr>
+ <tr>
+  <td class="row">Python</td>
+  <td class="row">Básico</td>
+ </tr>
+</table>
+</article>
+<article id= "formacion">
+ <table class="table">
+  <tr class="main-table">
+   <td class="row"><strong>Formación</strong></td>
+   <td class="row">Periodo</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>Universidad Nacional Autónoma de México</strong>
+</td>
+<td class="row">Ciudad de México. 2010-2015</td>
+  </tr>
+  <tr>
+   <td class="row">Licenciatura en Ciencias de la Comunicación. Especialidad en comunicación política.</td>
+  <tr class="main-table">
+   <td class="row"><strong>Cursos y diplomados</strong></td>
+   <td class="row">Periodo</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>
+DevF.-Educación</strong>
+</td>
+   <td class="row">Ciudad de México. 2014</td>
+  </tr>
+  <tr>
+  <td class="row">Cinta Blanca-Programación Web</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>
+Instituto Tecnologico Autónomo de México</strong>
+</td>
+   <td class="row">Ciudad de México. 2016</td>
+  </tr>
+  <tr>
+  <td class="row">Diplomado. Creación de productos digitales y metodologías ágiles.</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>Instituto Jaliscience de Tecnologias de la Información</strong>
+</td>
+   <td class="row">Guadalajara. 2018</td>
+  </tr>
+  <tr>
+  <td class="row">Curso: "De cero a ciencia de datos".</td>
+  </tr>
+ </table>
+</article>
+<article id="premios-community">
+ <table class="table">
+  <tr class="main-table">
+   <td class="row"><strong>Premios/Community Work</strong></td>
+   <td class="row">Periodo</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>
+Bronce en Festival AMAPRO</strong>
+</td>
+   <td class="row">Noviembre. 2018</td>
+  </tr>
+  <tr>
+   <td class="row">En categoría Plataforma digital para finales sociales con el proyecto de “Mi Zapopan”<br/>
+http://www.mizapopan.org/
+</td>
+  </tr>
+   <tr>
+   <td class="row"><strong>
+Lider de comunidad Codeando México, Ciudad de México</strong>
+</td>
+   <td class="row">Enero 2016-Julio 2017</td>
+  </tr>
+  <tr>
+   <td class="row">Meetups y realización de Civic Hack Nights en Ciudad de México
+</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>Informe Bajo Lupa</strong>
+</td>
+   <td class="row">Mayo 2016-Julio 2017</td>
+  </tr>
+  <tr>
+   <td class="row">Proyecto de Codeando México en conjunto con varias organizaciones como Wikipolítica.<br/> Revisión de informes de presidentes municipales y gobernadores bajo la metodología de Fact Check.<br/>http://informebajolupa.mx/<br/>
+https://www.facebook.com/InformeBajoLupa/
+</td>
+  </tr>
+  <tr>
+   <td class="row"><strong>3er Laboratorio de Innovación Ciudadana Iberoamericano<br/>
+   SEGIB-Medialab-Prado</strong>
+</td>
+   <td class="row">Mayo 2016-Julio 2017</td>
+  </tr>
+  <tr>
+   <td class="row">Proyecto de Codeando México en conjunto con varias organizaciones como Wikipolítica.<br/> Revisión de informes de presidentes municipales y gobernadores bajo la metodología de Fact Check.<br/>http://informebajolupa.mx/<br/>
+https://www.facebook.com/InformeBajoLupa/
+</td>
+  </tr>
+    
+ 
+ </table>
+</article>
+<article id="idiomas">
+<table class="table">
+<tr class="main-table">
+   <td class="row"><strong>Idiomas</strong></td>
+   <td class="row">Nivel</td>
+  </tr>
+  <tr>
+  <td class="row">Español</td>
+  <td class="row">Nativo</td>
+  </tr>
+  <tr>
+   <td class="row">Ingles</td>
+   <td class="row">Intermedio</td>
+  </tr>
+  <tr>
+  <td class="row">Frances</td>
+  <td class="row">Básico</td>
+  </tr>
+
+
+</table>
+</article>
+ </section>
+
+
+</body>
+</html>
